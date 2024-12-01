@@ -1,0 +1,52 @@
+body{
+    background-image:url(nature.jpg) ;
+    font-family: 'Courier New', Courier, monospace;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+} 
+a{
+    color:white;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 40px;
+    padding-left: 20px;
+    
+}
+a:hover{
+    color:black;
+    border-radius: 4px;
+}
+nav{
+    background-color: darkslategrey;
+    height: 90px;
+    margin-top: 15px;
+    border-radius: 10px;
+    .nav2{
+        margin-top: 0px;
+        padding-top: 30px;
+    }
+}
+.what{
+    display: flex;
+    margin-top: 40px;
+    color: white;
+}
+button{
+    background-color: lightblue;
+    border-radius: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 60px;
+    margin-left: 69px;
+
+
+}
+img{
+    border-radius: 100px;
+}
+div{
+    margin-left: 45px;
+}
+

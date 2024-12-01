@@ -1,0 +1,61 @@
+body{
+    background-image: url(nature.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+ div{
+margin-top: 150px;
+margin-left: 400px;
+
+}
+h1{
+    font-size: 2000;
+    color: white;
+}
+button{
+    margin-left: 170px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 14px;
+    padding-bottom:14px;
+    border-radius: 10px;
+    border: none;
+    background-color: lightgreen;
+}
+a{
+    color:white;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 40px;
+    
+}
+a:hover{
+    color:black;
+    border-radius: 4px;
+}
+}
+nav{
+    background-color: darkslategrey;
+    height: 90px;
+    margin-top: 15px;
+
+    .nav2{
+        margin-top: 0px;
+        padding-top: 30px;
+        margin-left: 0px;
+        
+    }
+}
+.myport{
+    color: white;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 0px;
+    font-weight: bolder;
+}
+h1{
+    font-size: 80px;
+    margin-left: -250px;
+}
